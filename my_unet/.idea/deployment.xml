@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ices@10.248.19.225:22" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ices@10.248.19.225:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ices/work/tzh/my_unet" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
